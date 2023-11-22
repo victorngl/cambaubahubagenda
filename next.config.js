@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     basePath: '',
-    assetPrefix: '/hub/',
-    distDir: '_next',
+    assetPrefix: '/hub',
 }
 
 module.exports = nextConfig
