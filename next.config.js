@@ -2,7 +2,7 @@
 const nextConfig = {
     basePath: '',
     assetPrefix: '/hub/',
-    distDir: '/hub/_next',
+    distDir: '_next',
 }
 
 module.exports = nextConfig
