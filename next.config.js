@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '',
+    basePath: '/hub',
     assetPrefix: '/hub/',
     distDir: '_next'
 }
